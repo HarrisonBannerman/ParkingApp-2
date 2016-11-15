@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7d7cd1400aa84299f5d3c40bf8204f10ff3ffb5f">
+        <dex dex="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e09964511c2207ecf49f6441d0564a3cfb512302/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.4.0_81dc6387b9bc2a5104b1eb35ecc87e18fd0e9e1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_9e45e3c5091024645ca889708e75491b00d18ab8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6f45be566eb8c57aff7d262fee537375d0f43e2a">
+        <dex dex="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4367d9406653c5db4419b5b006963491b89e4e6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_167e9b28498a82c54622a6ecd1e1a206455dace8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_dd343bed684279401c9d0934a7c01b54cdfd384f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_65d5b3ea795c6456e6f0560b902a7eb5f800846a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.4.0_6645325557870b8211b6aae104943dbd093e065d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_8d3d04114a796d3a0af6db3732649b8373a75b83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_bd91e8b692f85ced5ffe0baf1efc6b35869ade39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/voxeo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_729ad6dbf3e7bc2693353625af607cc486858988/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_0e6f37afb3fa46a83aaa6df03ea80a6f37bbca3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_36a09370abd8cfc16edded00bc663a23f525b11e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.4.0_1b4bf83dbef0a9806e3123352716a90624b8a7df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.4.0_3754d6485ff1119a78759debff7e91600cf96cc4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_ecb7849d46184e5a802eba062fe1ff392d4b0061/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.4.0_b83d26db376099e630a74770f24641a5e403d58b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_0fa3937e6d3f12988e7214470de56cc690344a2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.4.0_a4b86ccf6d8db7c591cab5b6a365ce12ff925e2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.4.0_9f82aee900f673d5b79759bae20e659a9b16ab5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ee461b50889bbbd2d172a53f6bc52871b6b07529/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_ff826b99f543dfa13a406b48289a80a072f3a1de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_aea7a4bfa2554c26b666926a6235a7d80896c242/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_e46cba32a4a5dd715087870f6a22a93bcc323e14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.4.0_bad21267bbca2b94011c3fcd5bc4305376ce0b08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_53bd75500fc7e916ee86d09ab0275b6ca883b2c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_dbcd49453582ff7f67ecbf6bc42b459d3a4be467/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_baaabe43833e172f0af0b64aaae2211f6467f94b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.4.0_f6b4ca53903aaef59feb8a3f58c0ee1af4464fd9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_67b8ecd9f334724f190739d8c0de7d67c34b3ca8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/voxeo/Downloads/ParkingApp 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_d4b35a8a5923321ed58543f3c05dcdf8ab00dfcc/classes.dex" />
+    </item>
+
+</items>
